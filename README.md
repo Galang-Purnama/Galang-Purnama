@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 
-- 🔭 I’m currently working on [Zi.Care](https://zicare.id/) and Remote Working Indonesia
+- 🔭 I’m currently study
 - 🌱 I’m currently learning some php, mongodb and postgresql
 - 📫 How to reach me: You can email me at galangpurnama907@gmail.com
 - ⚡ Fun fact: I love playing Game
