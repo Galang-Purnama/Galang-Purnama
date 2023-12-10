@@ -10,7 +10,7 @@
 <a href="https://wa.me/6281319859673" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
 [![GitHub Galang-Purnama](https://img.shields.io/github/followers/Galang-Purnama?label=follow&style=social)](https://github.com/Galang-Purnama)
 
-:page_with_curl: I'm currently learning:
+I'm currently learning:
 - Golang • Javascript
 
 ## Repo Stats 🔥
