@@ -4,9 +4,9 @@
   </a>
 </h1>
 
-## Hello, Im [Galang Purnama](https://www.instagram.com/galangpurnama.my.id) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> :sunglasses:
-[<img src="https://img.shields.io/website?up_message=galangpurnama.ezyro.com&url=http%3A%2F%2Fgalangpurnama.ezyro.com">](http://galangpurnama.ezyro.com/)
-<a href="https://www.instagram.com/galangpurnama.my.id/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+## Hello, Im [Galang Purnama](https://www.instagram.com/galangpurnama_dev) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> :sunglasses:
+[<img src="https://img.shields.io/website?up_message=galangpurnama.my.id&url=http%3A%2F%2Fgalangpurnama.my.id">](http://galangpurnama.my.id/)
+<a href="https://www.instagram.com/galangpurnama_dev/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://wa.me/6281319859673" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
 [![GitHub Galang-Purnama](https://img.shields.io/github/followers/Galang-Purnama?label=follow&style=social)](https://github.com/Galang-Purnama)
 
@@ -14,7 +14,7 @@ I'm currently learning:
 - Golang • Javascript
 
 ## Repo Stats 🔥
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=Galang-Purnama&repo=ChatGPT-Telegram&theme=highcontrast)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=Galang-Purnama&repo=NekohimeTele&theme=highcontrast)
 
 
    <p align="center">
