@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm <a href="https://galangpurnama.my.id" target="_blank">Galang Purnama</a></h1>
+<h1 align="center">🚀 Galang Purnama — Full Stack Developer</h1>
 
 ---
 
