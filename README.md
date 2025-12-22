@@ -33,7 +33,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Galang-Purnama&show_icons=true&theme=radical&hide_border=true" height="165em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Galang-Purnama&theme=radical&hide_border=true" height="165em" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Galang-Purnama&theme=radical&hide_border=true" height="165em" />
 </p>
 
 ---
