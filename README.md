@@ -32,8 +32,8 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=Galang-Purnama&count_private=true&show_icons=true&theme=radical&rank_icon=github" height="165em" />
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Galang-Purnama&theme=radical&hide_border=true&rank_icon=github" height="165em" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=Galang-Purnama&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10&hide_border=true" height="165em" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Galang-Purnama&theme=radical&hide_border=true" height="165em" />
 </p>
 
 ---
