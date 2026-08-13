@@ -7,8 +7,8 @@
 > A passionate developer who builds modern, scalable, and creative web & app solutions.
 
 - 🧩 **Name:** Galang Purnama  
-- 🌐 **Website:** [galangpurnama.my.id](https://galangpurnama.my.id)  
-- 📧 **Email:** [support@nekohime.site](mailto:support@nekohime.site)  
+- 🌐 **Website:** [galangpurnama.my.id](https://galangpurnama.com)  
+- 📧 **Email:** [support@nekohime.site](mailto:support@wabotqu.com)  
 - 💻 **Specialization:** Web & App Programming  
 - 🚀 **Focus:** Fullstack development using **Next.js**, **React**, **Node.js**, and **Go**  
 - 🧠 **Philosophy:** *“Don’t just write code — craft experiences.”*  
